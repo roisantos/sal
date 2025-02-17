@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 const paintings = [
   {
     id: 4,
-    name: "Portrait of a Noble Lady.",
+    name: "Portrait of a Noble Lady",
     period: "16th Century",
     artist: "Unknown Tudor Artist",
     image: "https://images.unsplash.com/photo-1578926375605-eaf7559b1458?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
